@@ -18,7 +18,7 @@ class Food {
 
 const List<Food> foodList = [
   Food(
-    image: 'assets/Nasi-Goreng.jpg',
+    image: 'assets/images/nasi_goreng.jpg',
     name: 'Nasi Goreng',
     price: 18000,
     description:
@@ -26,7 +26,7 @@ const List<Food> foodList = [
         'telur mata sapi, irisan mentimun, tomat, dan kerupuk renyah.',
   ),
   Food(
-    image: 'assets/nasi_bakar.jpg',
+    image: "assets/images/nasi_bakar.jpg",
     name: 'Nasi Bakar',
     price: 22000,
     description:
@@ -34,7 +34,7 @@ const List<Food> foodList = [
         'lalu dibakar, menghasilkan aroma harum yang menggugah selera.',
   ),
   Food(
-    image: 'assets/ayam_balado.jpeg',
+    image: 'assets/images/ayam_balado.jpeg',
     name: 'Ayam Balado',
     price: 25000,
     description:
@@ -42,7 +42,7 @@ const List<Food> foodList = [
         'cocok disantap dengan nasi putih hangat.',
   ),
   Food(
-    image: 'cd : assets/burger.jpg',
+    image: 'assets/images/burger.jpg',
     name: 'Burger',
     price: 30000,
     description:
